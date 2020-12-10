@@ -17,3 +17,5 @@
 
 * In the folder other-outputs there are some files about some execution queries and some screenshots of the Search Engine.
 
+* To facilitate running the Search Engine we have deployed a web app where you can try some queries without running the notebooks! Link: [Twitter Search Engine](https://twittertsearchengine.herokuapp.com/)
+

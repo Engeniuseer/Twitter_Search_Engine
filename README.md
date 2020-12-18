@@ -3,7 +3,7 @@
 ## Code execution
 
 * Step1: Download this github repository.
-* Step2: All the python notebooks need files located in the folder data in order to run properly. **Copy and paste all these notebooks in the same directory where the data is.**
+* Step2: All the python notebooks need files located in the folder datasets in order to run properly. **Copy and paste all these notebooks in the same directory where the data is.**
 
 ## Repository Structure
 
@@ -11,7 +11,7 @@
 
 * In the folder search-engine we have the Search_Engine.ipynb to execute the different options of the Search Engine.
 
-* In the folder data we have stored all the files needed in order to run the python notebooks such as index, tf, idf, dataframes, Word2Vector model and TSNE output.
+* In the folder datasets we have stored all the files needed in order to run the python notebooks such as index, tf, idf, dataframes, Word2Vector model and TSNE output.
 
 * In the folder notebooks we have the code used to answer the questions asked divided in RQ1.ipynb, RQ2.ipynb and RQ3.ipynb.
 
